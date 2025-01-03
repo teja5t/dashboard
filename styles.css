@@ -70,7 +70,7 @@
 .icon input {
     border: none;
     background-color: var(--background-color2);
-    width: calc(70vw - 300px);
+    width: 500px;
     margin-left: 10px;
     height: 30px;
     border-radius: 12.5px;
